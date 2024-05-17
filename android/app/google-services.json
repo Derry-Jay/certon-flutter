@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "894280733558",
+    "firebase_url": "https://certon-ccf37.firebaseio.com",
+    "project_id": "certon-ccf37",
+    "storage_bucket": "certon-ccf37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894280733558:android:3da3ed325ed86c00",
+        "android_client_info": {
+          "package_name": "com.certon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894280733558-spo408ir0ci4g9onh90jib5t2r7m43hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwe7RRu4Cge5i_oYea5UO6MF5c68rkdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894280733558-spo408ir0ci4g9onh90jib5t2r7m43hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894280733558-1q31avgscuishqga4p4i144jb97e33ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.certonstaging.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894280733558:android:93e342bd53fe7b75726057",
+        "android_client_info": {
+          "package_name": "com.certonpro.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894280733558-spo408ir0ci4g9onh90jib5t2r7m43hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwe7RRu4Cge5i_oYea5UO6MF5c68rkdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894280733558-spo408ir0ci4g9onh90jib5t2r7m43hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894280733558-1q31avgscuishqga4p4i144jb97e33ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.certonstaging.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

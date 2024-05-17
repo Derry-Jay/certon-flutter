@@ -1,0 +1,77 @@
+{
+    "asset_image_path": "assets/images/",
+    "live": "https://hub.certon.co.uk/api/V1/",
+    "dev": "https://stagingnewcerton.cyb.co.uk/api/",
+    "staging": "https://stagingnewcerton.cyb.co.uk/api/V1/",
+    "testing": "https://newstaging-certon.cyb.co.uk/api/V1/",
+    "bucket_url": "https://s3.eu-west-2.amazonaws.com/certon/documents/",
+    "table_data": [
+        {
+            "id": 1,
+            "Address": "1, New Street",
+            "City": "Chennai",
+            "Postcode": "600013",
+            "Property Type": "House",
+            "QR Code Installation": "01/04/2016",
+            "link": "https://stackoverflow.com/questions/63770644/using-multiple-configuration-files-in-flutter"
+        },
+        {
+            "id": 2,
+            "Address": "3, New Street",
+            "City": "Chennai",
+            "Postcode": "600001",
+            "Property Type": "Factory",
+            "QR Code Installation": "01/05/2016",
+            "link": "https://www.topcoder.com/thrive/articles/must-use-packages-in-flutter-part-1"
+        },
+        {
+            "id": 3,
+            "Address": "2, Old Street",
+            "City": "Chennai",
+            "Postcode": "600002",
+            "Property Type": "Resort",
+            "QR Code Installation": "01/04/2017",
+            "link": "https://binary-studio.com/2020/04/17/flutter-2/"
+        },
+        {
+            "id": 4,
+            "Address": "4, Old Street",
+            "City": "Chennai",
+            "Postcode": "600003",
+            "Property Type": "Land",
+            "QR Code Installation": "01/05/2017",
+            "link": "https://suragch.medium.com/reading-configuration-files-and-settings-in-flutter-and-dart-cc14bbd93698"
+        }
+    ],
+    "table_data_1": "[{\"Customer Name\": \"Comnew Panynew\",\"Property\": \"1, New Street\",\"Time\": \"Chennai\"},{\"Customer Name\": \"Test Adssa\",\"Property\": \"3, New Street\",\"Time\": \"Chennai\"}, {\"Customer Name\": \"Tesqwewq Admin\", \"Property\": \"2, Old Street\", \"Time\": \"Chennai\"},{\"Customer Name\": \"Derry\",\"Property\": \"4, Old Street\",\"Time\": \"Chennai\"}]",
+    "table_data_2": [
+        {
+            "id": 1,
+            "Document Name": "testnew",
+            "Documents Type": "Electrical Installation Certificate",
+            "Expiration Date": "28/07/2022",
+            "Property": "13 Long Row"
+        },
+        {
+            "id": 2,
+            "Document Name": "galt",
+            "Documents Type": "Domestic Electrical Installation Condition Report",
+            "Expiration Date": "18/02/2023",
+            "Property": "13 Long Row"
+        },
+        {
+            "id": 3,
+            "Document Name": "docnew",
+            "Documents Type": "Domestic Electrical Installation Condition Report",
+            "Expiration Date": "22/06/2023",
+            "Property": "13 Long Row"
+        },
+        {
+            "id": 4,
+            "Document Name": "testcheck",
+            "Documents Type": "Domestic Electrical Installation Condition Report",
+            "Expiration Date": "25/05/2023",
+            "Property": "14 Rockery Road"
+        }
+    ]
+}
